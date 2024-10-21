@@ -8,7 +8,7 @@ type: "post"
 
 # Mano Pirmas Įrašas
 
-Šiame įraše dalinsiuosi paveikslėliu ir kodo citata.
+Šiame įraše dalinsiuosi paveikslėliu ir kodo citata...
 
 ## Paveikslėlis
 

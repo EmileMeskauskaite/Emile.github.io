@@ -6,17 +6,16 @@ title: "My First Post"
 type: "post"
 ---
 
-# Mano Pirmas Įrašas
+# Mano Pirmas Įrašas !
 
 Šiame įraše dalinsiuosi paveikslėliu ir kodo citata.
 
 ## Paveikslėlis
 
-![Mano Paveikslėlis](images/image.png)  
+![Mano Paveikslėlis](images/image.jpg)
+<img src="/images/image.png" alt="Mano Paveikslėlis" style="width: 100%; max-width: 300px;">
 
 ## Kodo Citatą
 
-
-
 ```html
-<img src="images/my-image.jpg" alt="Mano Paveikslėlis" style="width: 100%; max-width: 300px;">
+<img src="images/image.jpg" alt="Mano Paveikslėlis" style="width: 100%; max-width: 300px;">
