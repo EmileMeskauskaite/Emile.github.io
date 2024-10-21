@@ -1,0 +1,7 @@
+[submodule "themes/gokarna"]
+	path = themes/gokarna
+	url = https://github.com/526avijitgupta/gokarna.git
+[submodule "public/Emile.github.io"]
+	path = public/Emile.github.io
+	url = https://github.com/EmileMeskauskaite/Emile.github.io.git
+	branch = main
